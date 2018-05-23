@@ -1,5 +1,4 @@
 #!/bin/bash
-#niagahoster.co.id Checker
 #issued on : 5 Mei 2018
 #coded By Achon666ju5t
 NC='\033[0m'
